@@ -1,0 +1,12 @@
+Q.> In how many ways can a CSS be integrated as a web page?
+
+1> Inline CSS: You can add CSS directly to HTML elements using the style attribute.
+
+2> Internal CSS: You can include CSS code within the <style> tags in the 
+<head> section of your HTML document.
+
+3> External CSS: You can create a separate CSS file with a .
+css extension and link it to your HTML document using the <link> tag.
+
+
+
